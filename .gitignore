@@ -1,0 +1,16 @@
+#node modules
+node_modules/
+
+#logs
+*.log
+
+#Environment files
+.env
+#build files
+dist/
+build/
+
+#Temporary files
+*.cache
+*.swp
+--
